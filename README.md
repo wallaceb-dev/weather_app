@@ -1,4 +1,4 @@
-# net_ninja_vue_e_weather_app
+# net_ninja_vue_3_weather_app
 
 This template should help get you started developing with Vue 3 in Vite.
 
